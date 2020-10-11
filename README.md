@@ -1,2 +1,3 @@
-# denis_tyubaev_lab3
-it's a test project
+fb7435703839098100c02221bdd243451b451e49 рабочая версия ex3.py
+a646183cb1d07156c80694d79694c0d0691a7991 картинка для ex3.py
+
